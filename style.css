@@ -600,6 +600,11 @@ h3 {
 .footer-copy p {
 	font-size: 10px;
 }
+.phone-mockup{
+	display: flex;
+	justify-content: center;
+	margin-top: 20px;
+}
 }
 
 
@@ -609,6 +614,5 @@ h3 {
 .about-content{
 	text-align: justify;
 }
-
 
 
